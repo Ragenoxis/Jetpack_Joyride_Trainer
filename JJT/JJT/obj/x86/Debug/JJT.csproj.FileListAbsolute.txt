@@ -1,0 +1,15 @@
+C:\Users\Cem\Desktop\JJT\JJT\JJT\bin\Debug\JJT.exe
+C:\Users\Cem\Desktop\JJT\JJT\JJT\bin\Debug\JJT.pdb
+C:\Users\Cem\Desktop\JJT\JJT\JJT\obj\x86\Debug\JJT.Form1.resources
+C:\Users\Cem\Desktop\JJT\JJT\JJT\obj\x86\Debug\JJT.Properties.Resources.resources
+C:\Users\Cem\Desktop\JJT\JJT\JJT\obj\x86\Debug\JJT.csproj.GenerateResource.Cache
+C:\Users\Cem\Desktop\JJT\JJT\JJT\obj\x86\Debug\JJT.exe
+C:\Users\Cem\Desktop\JJT\JJT\JJT\obj\x86\Debug\JJT.pdb
+C:\Users\Cem\JJT\JJT\JJT\obj\x86\Debug\JJT.exe
+C:\Users\Cem\JJT\JJT\JJT\obj\x86\Debug\JJT.pdb
+C:\Users\Cem\JJT\JJT\JJT\bin\Debug\JJT.exe
+C:\Users\Cem\JJT\JJT\JJT\bin\Debug\JJT.pdb
+C:\Users\Cem\JJT\JJT\JJT\obj\x86\Debug\JJT.Form1.resources
+C:\Users\Cem\JJT\JJT\JJT\obj\x86\Debug\JJT.Properties.Resources.resources
+C:\Users\Cem\JJT\JJT\JJT\obj\x86\Debug\JJT.csproj.GenerateResource.Cache
+C:\Users\Cem\JJT\JJT\JJT\obj\x86\Debug\JJT.csprojResolveAssemblyReference.cache
